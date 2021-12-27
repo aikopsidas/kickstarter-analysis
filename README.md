@@ -16,9 +16,11 @@ The data (Kickstarter_data tab in the attached excel file** add link?) was ready
 
 ### Analysis of Outcomes Based on Launch Date
 The *Outcomes Based on launch Date* data gave a great full year look at the the number of theater Kickstarter Campaigns and if they were successful, failed, or cancelled by month. It is easy to see which Months were the best to kick off a campaign if you were hoping for success in reaching your goal.
+
 ![Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 Besides knowing the best Month to launch a Kickstarter Campaign we also want to understand which goal amount has the highest success rate and fits our need financially. To extract this data we created the *Outcomes Based on Goals* tab, which takes from the Kickstarter(data) tab and shows us only data from the 'plays' sub-categories, whether they were successful, failed, or cancelled, and fell within a specified group of values.
+
 ![Outcomes Based On Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
