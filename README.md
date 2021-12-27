@@ -30,11 +30,11 @@ This challenge was straight forward, and I am comfortable with excel.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  ###1. The most 'successful' time to launch a Kickstarter Campaign is in May, and the very beginning of summer. This period of time (May-July) also has the largest difference between successful and failed Kickstarter Campaign's.
-  ###2. The absolute worst month to launch a campaign is December, with a nearly 50/50 split of the campaign being successful or failing.
+  1. The most 'successful' time to launch a Kickstarter Campaign is in May, and the very beginning of summer. This period of time (May-July) also has the largest difference between successful and failed Kickstarter Campaign's.
+  2. The absolute worst month to launch a campaign is December, with a nearly 50/50 split of the campaign being successful or failing.
 
 - What can you conclude about the Outcomes based on Goals?
-  ###* Though the highest percent of successful campaigns is 76%, the amount is low (less than $1000). The next highest success rate is 73% which falls in the $1000-$4999 goal range. This amount looks to be our sweet spot, with next largest % of successful campaigns being 67% ($35,000-$44,999) an amount that we could fund multiple plays with.
+  * Though the highest percent of successful campaigns is 76%, the amount is low (less than $1000). The next highest success rate is 73% which falls in the $1000-$4999 goal range. This amount looks to be our sweet spot, with next largest % of successful campaigns being 67% ($35,000-$44,999) an amount that we could fund multiple plays with.
 
 - What are some limitations of this dataset?
   * The data is old, with 2017 being the most recent year.
