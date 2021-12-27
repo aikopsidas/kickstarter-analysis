@@ -9,7 +9,7 @@ The data (Kickstarter_data tab in the attached excel file** add link?) was ready
 
     * Row 1 has 'successful', 'failed', and 'canceled' (in cells D1,E1,F1) 
     * Columns A & B have '>=' and '<=' values associated with goal row
-![COUNTIFS_referenced_cells](C:\Users\M209033\Desktop\U_of_MN\week_1\Challenge_1\resources)
+![COUNTIFS_referenced_cells](https://github.com/aikopsidas/kickstarter-analysis/blob/ac581e53ca479e6e06a823aeabe2f47aa4bd00ac/resources/countifs.png)
 These cell references ensure that there are no spelling errors or errors on the goal references in the formulas used.
 
 ### Analysis of Outcomes Based on Launch Date
