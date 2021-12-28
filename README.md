@@ -11,7 +11,7 @@ The data (Kickstarter(data) tab in the attached excel file) was ready to be used
 * Columns A & B have '>=' and '<=' values associated with goal row
 
 ![COUNTIFS_referenced_cells](https://github.com/aikopsidas/kickstarter-analysis/blob/ac581e53ca479e6e06a823aeabe2f47aa4bd00ac/resources/countifs.png)
-<font size="6">*These cell references ensure that there are no spelling errors or errors on the goal references in the formulas used.*</font> 
+<font size="3">These cell references ensure that there are no spelling errors or errors on the goal references in the formulas used.</font> 
 
 ### Analysis of Outcomes Based on Launch Date
 The *Outcomes Based on launch Date* data gave a great full year look at the the number of theater Kickstarter Campaigns and if they were successful, failed, or cancelled by month. It is easy to see which Months were the best to kick off a campaign if you were hoping for success in reaching your goal.
